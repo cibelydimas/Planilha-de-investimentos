@@ -1,3 +1,4 @@
+
 # 📈 Projeto de Planejamento de Investimentos com FIIs
 
 Este projeto apresenta um plano de investimentos mensais com foco em Fundos Imobiliários (FIIs). Ele foi desenvolvido com o objetivo de demonstrar como, com constância e estratégia, é possível acumular patrimônio e gerar uma boa renda passiva ao longo do tempo.
@@ -38,7 +39,7 @@ Esses cenários mostram como o efeito dos **juros compostos** acelera o crescime
 
 ## 🧠 Estratégia de Alocação
 
-O perfil adotado é **agressivo**, com diversificação entre os seguintes tipos de FIIs:
+O perfil adotado é **agressivo**, porém o investidor pode selecionar seu conservador, moderado ou agressivo de acordo com o seu perfil.
 
 | Tipo de FII         | Percentual Sugerido |
 |---------------------|---------------------|
@@ -55,7 +56,7 @@ O perfil adotado é **agressivo**, com diversificação entre os seguintes tipos
 
 Abaixo está o gráfico com a distribuição percentual da carteira de investimentos em FIIs:
 
-![Gráfico Percentual Sugestão de FIIs](./images/0661180b-be4d-469a-a46f-da113141e6fa.png)
+![Captura de tela 2025-05-26 135813](https://github.com/user-attachments/assets/8afa1aa3-6736-45a3-a5a4-a36ee4f087cc)
 
 ---
 
@@ -63,12 +64,12 @@ Abaixo está o gráfico com a distribuição percentual da carteira de investime
 
 Imagem representando o planejamento completo com todos os cenários:
 
-![Simulação de Cenários e Dividendos](./images/52a85551-2c74-4b07-a02a-2e9bec26f9bc.png)
+![Captura de tela 2025-05-26 140159](https://github.com/user-attachments/assets/2154b9ec-1f85-4a8d-a7ca-421643fb9f0d)
 
 ---
 
 ## ✅ Conclusão
 
-Este projeto é uma simulação prática que reforça a importância de investir mensalmente, respeitando seu perfil de risco, e aproveitando o poder dos juros compostos. Mesmo com aportes modestos, é possível alcançar resultados significativos a longo prazo.
+Este projeto é uma simulação prática que reforça a importância de investir mensalmente, respeitando seu perfil de risco, e aproveitando o poder dos juros compostos. Mesmo com pequenos aportes, é possível alcançar resultados significativos a longo prazo.
 
 ---
